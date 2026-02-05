@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sudeesha Ravisara
+<center># Hi 👋, I'm Sudeesha Ravisara</center>
 
 ### Software Engineering Undergraduate | Java • Spring Boot • React 🚀
 
