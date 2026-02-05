@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Sudeesha Ravisara
 
-<!--
-**sudeesharavisara2-sys/sudeesharavisara2-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Undergraduate | Java • Spring Boot • React 🚀
 
-Here are some ideas to get you started:
+I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineering at NSBM Green University. I love building web applications and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **Spring Boot, React & System Design**
+- ⚡ 2nd Year Student at **NSBM Green University**
+- 📫 Reach me at: [sudeesharavisara2@gmail.com]
+
+## 🛠 Tech Stack
+- **Languages:** Java, Python, JavaScript, SQL, HTML, CSS
+- **Frameworks:** Spring Boot, React
+- **Tools:** Git, GitHub, VS Code, Postman
+
+## 📊 GitHub Stats
+![Sudeesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudeesharavisara2-sys&show_icons=true&theme=dark)
