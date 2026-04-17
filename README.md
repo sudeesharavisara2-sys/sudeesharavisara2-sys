@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sudeesha Ravisara
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveHRudWtkZnl5MDN4ejIwdGVreGt5Z3YyeGJ0Y21kdjAydTJ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw1fXNvb0k3MDFDODU1L2dpcGh5LmdpZg/giphy.gif" width="600" alt="Lofi Girl Coding Animation" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/main/Lofi%20Girl%20Coding.gif" width="600" alt="Lofi Girl Coding Animation" />
 </div>
 
 <br/>
