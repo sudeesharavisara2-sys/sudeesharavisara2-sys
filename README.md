@@ -1,6 +1,16 @@
 # Hi 👋, I'm Sudeesha Ravisara
 
-### Software Engineering Undergraduate | Java • Spring Boot • React 🚀
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3hveHRudWtkZnl5MDN4ejIwdGVreGt5Z3YyeGJ0Y21kdjAydTJ5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw1fXNvb0k3MDFDODU1L2dpcGh5LmdpZg/giphy.gif" width="600" alt="Lofi Girl Coding Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33B36F&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+React+%F0%9F%9A%80" alt="Typing Animation" />
+</div>
+
+<br/>
 
 I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineering at NSBM Green University. I love building web applications and exploring new technologies.
 
@@ -8,7 +18,6 @@ I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineer
 - 🔭 I’m currently working on **Full Stack Projects**
 - 🌱 I’m currently learning **Spring Boot, React & System Design**
 - ⚡ 2nd Year Student at **NSBM Green University**
-
 
 ---
 
@@ -44,6 +53,13 @@ I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineer
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudeesharavisara2-sys&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeesharavisara2-sys&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
@@ -53,4 +69,6 @@ I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineer
 ---
 
 ## 👀 Profile Visitors
-![Visitors](https://komarev.com/ghpvc/?username=sudeesharavisara2-sys&color=blueviolet)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudeesharavisara2-sys&color=blueviolet" alt="Visitors" />
+</div>
