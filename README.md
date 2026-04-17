@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sudeesha Ravisara
 
-### Software Engineering Undergraduate | Java • Spring Boot • React 🚀
+### Software Engineering Undergraduate 
 
 <table>
   <tr>
@@ -14,7 +14,7 @@
       <p>I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineering at NSBM Green University. I love building web applications and exploring new technologies.</p>
     </td>
     <td width="40%" align="center" style="vertical-align: middle;">
-      <img src="https://github.com/Aditya-Atre/Aditya-Atre/raw/main/coding.gif" width="100%" alt="Coding Animation" />
+      <img src="https://raw.githubusercontent.com/sudeesharavisara2-sys/sudeesharavisara2-sys/main/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313336302f312a6e57515f55354e4b45664e6547435466685f322d4d772e676966.gif" width="100%" alt="Coding Animation" />
     </td>
   </tr>
 </table>
