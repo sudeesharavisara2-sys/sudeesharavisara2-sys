@@ -2,13 +2,22 @@
 
 ### Software Engineering Undergraduate | Java • Spring Boot • React 🚀
 
-I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineering at NSBM Green University. I love building web applications and exploring new technologies.
-
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **Full Stack Projects**
-- 🌱 I’m currently learning **Spring Boot, React & System Design**
-- ⚡ 2nd Year Student at **NSBM Green University**
-
+<table>
+  <tr>
+    <td width="60%" style="vertical-align: top;">
+      <h2>👨‍💻 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on <b>Full Stack Projects</b></li>
+        <li>🌱 I’m currently learning <b>Spring Boot, React & System Design</b></li>
+        <li>⚡ 2nd Year Student at <b>NSBM Green University</b></li>
+      </ul>
+      <p>I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineering at NSBM Green University. I love building web applications and exploring new technologies.</p>
+    </td>
+    <td width="40%" align="center" style="vertical-align: middle;">
+      <img src="https://github.com/Aditya-Atre/Aditya-Atre/raw/main/coding.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,7 +53,6 @@ I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineer
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
 ---
 
 ## 🚀 GitHub Activity Graph
@@ -54,4 +62,3 @@ I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineer
 
 ## 👀 Profile Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=sudeesharavisara2-sys&color=blueviolet)
-
