@@ -1,11 +1,11 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,30:5c0000,50:8a0707,70:5c0000,100:2b0000&width=1500&height=250&section=header&text=Sudeesha%20Ravisara&fontSize=40&fontColor=ffffff&animation=typing&fontAlignY=38&desc=Software%20Engineering%20Undergraduate" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,30:5c0000,50:8a0707,70:5c0000,100:2b0000&width=1500&height=250&section=header&text=Sudeesha%20Ravisara&fontSize=40&fontColor=ffffff&animation=typing&fontAlignY=38&desc=Software%20Engineering%20|Undergraduate" width="100%" />
 </p>
 
 <h3 align="center">👋 Hi, I'm Sudeesha Ravisara</h3>
 <p align="center">
-  💻 Software Engineering Undergraduate • 🌱 Continuous Learner • 🚀 Tech Enthusiast
+  💻 Software Engineering | Undergraduate • 🌱 Continuous Learner • 🚀 Tech Enthusiast
 </p>
 
 ---
