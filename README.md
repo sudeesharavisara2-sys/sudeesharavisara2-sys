@@ -17,7 +17,7 @@
       <ul>
         <li>🔭 I’m currently working on <b>Full Stack Projects</b></li>
         <li>🌱 I’m currently learning <b>Spring Boot, React & System Design</b></li>
-        <li>⚡ 2nd Year Student at <b>NSBM Green University</b></li>
+        <li>⚡ 3rd Year Student at <b>NSBM Green University</b></li>
       </ul>
       <p>I'm a passionate developer currently pursuing my BSc (Hons) in Software Engineering at NSBM Green University. I love building web applications and exploring new technologies.</p>
     </td>
