@@ -8,7 +8,11 @@
   💻 Software Engineering | Undergraduate • 🌱 Continuous Learner • 🚀 Tech Enthusiast
 </p>
 
----
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Footer Animation"
+/>
 
 <table>
   <tr>
@@ -27,7 +31,11 @@
   </tr>
 </table>
 
----
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Footer Animation"
+/>
 
 ## 🤝 Connect with Me
 <p align="left">
@@ -39,7 +47,11 @@
 </a>
 </p>
 
----
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Footer Animation"
+/>
 
 ## 🛠 Tech Stack
 
@@ -78,15 +90,65 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 🚀 GitHub Activity Graph
-![Sudeesha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudeesharavisara2-sys&theme=dracula)
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Footer Animation"
+/>
 
----
+
+
+<!-- ========================= GITHUB STATUS ========================= -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+  GitHub Status
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
+</h2>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://yourinsights.vercel.app/api/insight?username=sudeesharavisara2-sys"
+    alt="GitHub Insights"
+    width="90%"
+  />
+</p>
+
+<br>
+
+
+
+
 
 ## 👀 Profile Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=sudeesharavisara2-sys&color=blueviolet)
 
-<!-- Footer -->
+
+
+<!-- ========================= FOOTER ========================= -->
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Footer Animation"
+/>
+
+<br><br>
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:5c0000,100:2b0000&height=120&section=footer&width=1500" width="100%"/>
+  <b>If you like my work, consider giving a ⭐ to the repositories you find useful.</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,30:5c0000,50:8a0707,70:5c0000,100:2b0000&height=130&section=footer&width=1500"
+    width="100%"
+    alt="Footer"
+  />
 </p>
