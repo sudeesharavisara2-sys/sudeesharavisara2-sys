@@ -8,11 +8,9 @@
   💻 Software Engineering | Undergraduate • 🌱 Continuous Learner • 🚀 Tech Enthusiast
 </p>
 
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Footer Animation"
-/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <table>
   <tr>
@@ -31,11 +29,11 @@
   </tr>
 </table>
 
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Footer Animation"
-/>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ## 🤝 Connect with Me
 <p align="left">
@@ -47,11 +45,9 @@
 </a>
 </p>
 
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Footer Animation"
-/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 ## 🛠 Tech Stack
 
@@ -90,11 +86,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<img
-  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
-  width="100%"
-  alt="Footer Animation"
-/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 
 
@@ -152,3 +146,9 @@
     alt="Footer"
   />
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
+
