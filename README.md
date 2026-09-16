@@ -8,15 +8,25 @@
   💻 Software Engineering | Undergraduate • 🌱 Continuous Learner • 🚀 Tech Enthusiast
 </p>
 <br>
-<p align="center">
-<a href="http://linkedin.com/in/sudeesha-ravisara" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://wa.me/701165288" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:sudeesharavisara2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://sudeesharavisara.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8A0707?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
-</p>
+<h2 align="center">📬 Contact Me</h2>
 
+<p align="center">
+  <a href="https://linkedin.com/in/sudeesha-ravisara" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/701165288" target="_blank">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sudeesharavisara2@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sudeesharavisara.netlify.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" />
+  </a>
+</p>
 
 
 <p align="center">
