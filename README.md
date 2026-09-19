@@ -3,32 +3,29 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,30:5c0000,50:8a0707,70:5c0000,100:2b0000&width=1500&height=250&section=header&text=Sudeesha%20Ravisara&fontSize=40&fontColor=ffffff&animation=typing&fontAlignY=38&desc=Software%20Engineering%20|%20Undergraduate" width="100%" />
 </p>
 
+<!-- Social Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/sudeesha-ravisara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/sudeesharavisara2-sys" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:sudeesharavisara2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://wa.me/701165288" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://sudeesharavisara.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 <h3 align="center">👋 Hi, I'm Sudeesha Ravisara</h3>
 <p align="center">
   💻 Software Engineering | Undergraduate • 🌱 Continuous Learner • 🚀 Tech Enthusiast
 </p>
 <br>
-<h2 align="center">📬 Contact Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/sudeesha-ravisara" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/701165288" target="_blank">
-    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sudeesharavisara2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sudeesharavisara.netlify.app/" target="_blank">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="45" />
-  </a>
-</p>
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
