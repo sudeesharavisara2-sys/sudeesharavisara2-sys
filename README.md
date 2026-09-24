@@ -91,7 +91,7 @@
 <br /><br />
 
 ### 🔹 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
 
 <br /><br />
 
