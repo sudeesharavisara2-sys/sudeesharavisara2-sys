@@ -110,7 +110,7 @@
 
 <br />
 
-<img src="https://img.shields.io/badge/Thunder%20Client-6C63FF?style=for-the-badge&logo=thunderclient&logoColor=white" />
+
 
 </div>
 
