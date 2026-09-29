@@ -80,41 +80,48 @@
 </p>
 
 
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🔹 Backend & APIs
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,php" />
+<table>
+  <tr>
+    <td align="center" width="210"><b>Backend & APIs</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,php,postman&perline=7" alt="Backend & APIs" />
+    </td>
+  </tr>
 
-<br /><br />
+  <tr>
+    <td align="center"><b> Frontend</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&perline=7" alt="Frontend" />
+    </td>
+  </tr>
 
-### 🔹 Frontend
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+  <tr>
+    <td align="center"><b> Databases</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mssql&perline=7" alt="Databases" />
+    </td>
+  </tr>
 
-<br /><br />
+  <tr>
+    <td align="center"><b> Programming Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=java,js,python,cs,php&perline=7" alt="Programming Languages" />
+    </td>
+  </tr>
 
-### 🔹 Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mssql" />
+  <tr>
+    <td align="center"><b> Tools & Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,visualstudio,idea&perline=7" alt="Tools & Development" />
+    </td>
+  </tr>
+</table>
 
-<br /><br />
-
-### 🔹 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,cs,php" />
-
-<br /><br />
-
-### 🔹 Tools & Development
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,visualstudio,idea" />
-
-<br />
-
-
-
-</div>
-
-<p align="center">
+</div><p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
