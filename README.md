@@ -68,7 +68,7 @@
   <tr>
     <td align="center"><b> Frontend</b></td>
     <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&perline=7" alt="Frontend" />
+   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap,vue&perline=7" alt="Frontend" />
     </td>
   </tr>
 
