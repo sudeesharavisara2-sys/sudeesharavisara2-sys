@@ -1,0 +1,41 @@
+name: Daily Auto Commit
+
+on:
+  schedule:
+    # 3:30 PM Sri Lanka time
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-auto-commit
+  cancel-in-progress: false
+
+jobs:
+  auto_commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Update timestamp and push
+        run: |
+          date -u '+Last Update: %Y-%m-%d %H:%M:%S UTC' > update.txt
+
+          git config user.name "sudeesharavisara2-sys"
+          git config user.email "sudeesharavisara2@gmail.com"
+
+          git add update.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update daily timestamp"
+          git push
