@@ -1,8 +1,8 @@
-name: Daily Auto Commit
+name: Daily README Refresh
 
 on:
   schedule:
-    # 3:30 PM Sri Lanka time
+    # Daily at 3:30 PM Sri Lanka time
     - cron: '0 10 * * *'
   workflow_dispatch:
 
@@ -10,11 +10,11 @@ permissions:
   contents: write
 
 concurrency:
-  group: daily-auto-commit
+  group: daily-readme-refresh
   cancel-in-progress: false
 
 jobs:
-  auto_commit:
+  refresh_readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -23,19 +23,41 @@ jobs:
         with:
           ref: main
 
-      - name: Update timestamp and push
+      - name: Refresh README timestamp
         run: |
-          date -u '+Last Update: %Y-%m-%d %H:%M:%S UTC' > update.txt
+          python3 - <<'PY'
+          from pathlib import Path
+          from datetime import datetime, timezone
+          import re
 
+          path = Path("README.md")
+          content = path.read_text(encoding="utf-8")
+          timestamp = datetime.now(timezone.utc).strftime(
+              "%Y-%m-%d %H:%M:%S UTC"
+          )
+
+          marker = f"<!-- DAILY_REFRESH: {timestamp} -->"
+          pattern = r"<!-- DAILY_REFRESH: .*? -->"
+
+          if re.search(pattern, content):
+              content = re.sub(pattern, marker, content)
+          else:
+              content = content.rstrip() + "\n\n" + marker + "\n"
+
+          path.write_text(content, encoding="utf-8")
+          PY
+
+      - name: Commit and push
+        run: |
           git config user.name "sudeesharavisara2-sys"
           git config user.email "sudeesharavisara2@gmail.com"
 
-          git add update.txt
+          git add README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
 
-          git commit -m "chore: update daily timestamp"
+          git commit -m "chore: daily README refresh"
           git push
