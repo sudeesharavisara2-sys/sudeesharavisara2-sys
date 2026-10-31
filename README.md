@@ -131,7 +131,7 @@
 
 <!-- ========================= PACMAN CONTRIBUTION ACTIVITY ========================= -->
 
-### 👾 Contribution Activity (Pacman)
+### 👾 Contribution Activity 
 
 <p align="center">
   <picture>
